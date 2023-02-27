@@ -1,0 +1,28 @@
+* {                                        /* this is styling for all html elements */
+    font-size: medium;
+}
+
+input {
+    margin-right: 90%;
+    margin-left: 20px;
+}
+#add-book{
+    margin-left: 20px;
+}
+body {
+    color:aliceblue;
+    background:linear-gradient(rgb(115, 16, 181),rgb(81, 81, 227));
+    
+   
+}
+
+#nav li{                    /*this is styling for the nav bar */
+    list-style: none;
+font-size: 20px;
+margin-left: 50px;
+}
+
+ul {                              /* this is styling for the individual books that are in ul sections*/
+    margin-bottom: 30px;
+}
+
